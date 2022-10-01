@@ -4,3 +4,4 @@ DataFrame
 capitalize
 upper
 lower
+na
