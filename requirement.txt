@@ -1,0 +1,6 @@
+streamlit
+pandas
+DataFrame
+capitalize
+upper
+lower
