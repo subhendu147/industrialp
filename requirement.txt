@@ -5,3 +5,4 @@ capitalize
 upper
 lower
 na
+strings
